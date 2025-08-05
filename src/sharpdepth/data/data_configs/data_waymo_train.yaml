@@ -1,0 +1,4 @@
+name: waymo
+disp_name: waymo
+dir: waymo_processed/training
+filenames: src/sharpdepth/data/data_split/waymo/waymo_train_12k.txt

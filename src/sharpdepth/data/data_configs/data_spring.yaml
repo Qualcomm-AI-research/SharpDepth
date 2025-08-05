@@ -1,0 +1,4 @@
+name: spring
+disp_name: spring
+dir: spring/spring/train
+filenames: src/sharpdepth/data/data_split/spring/spring_test.txt

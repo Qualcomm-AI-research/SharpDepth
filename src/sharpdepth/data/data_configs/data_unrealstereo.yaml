@@ -1,0 +1,4 @@
+name: unrealstereo
+disp_name: unrealstereo
+dir: unreal/00008
+filenames: src/sharpdepth/data/data_split/unrealstereo/unrealstereo_test.txt

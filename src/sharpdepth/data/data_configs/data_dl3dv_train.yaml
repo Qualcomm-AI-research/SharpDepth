@@ -1,0 +1,4 @@
+name: dl3dv
+disp_name: dl3dv
+dir: dl3dv
+filenames: src/sharpdepth/data/data_split/dl3dv/dl3dv_train_100k.txt

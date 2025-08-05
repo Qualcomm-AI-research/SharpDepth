@@ -1,0 +1,10 @@
+test/kitchen_0004/rgb_0001.png test/kitchen_0004/depth_0001.png test/kitchen_0004/filled_0001.png
+test/bedroom_0011/rgb_0056.png test/bedroom_0011/depth_0056.png test/bedroom_0011/filled_0056.png
+test/bedroom_0011/rgb_0057.png test/bedroom_0011/depth_0057.png test/bedroom_0011/filled_0057.png
+test/bedroom_0013/rgb_0059.png test/bedroom_0013/depth_0059.png test/bedroom_0013/filled_0059.png
+test/kitchen_0002/rgb_0198.png test/kitchen_0002/depth_0198.png test/kitchen_0002/filled_0198.png
+test/home_office_0010/rgb_0389.png test/home_office_0010/depth_0389.png test/home_office_0010/filled_0389.png
+test/home_office_0010/rgb_0390.png test/home_office_0010/depth_0390.png test/home_office_0010/filled_0390.png
+test/home_office_0012/rgb_0396.png test/home_office_0012/depth_0396.png test/home_office_0012/filled_0396.png
+test/home_office_0012/rgb_0397.png test/home_office_0012/depth_0397.png test/home_office_0012/filled_0397.png
+test/living_room_0081/rgb_0581.png test/living_room_0081/depth_0581.png test/living_room_0081/filled_0581.png
