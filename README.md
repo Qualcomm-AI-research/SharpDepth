@@ -50,10 +50,19 @@ Please refer to [data preparation](docs/dataset.md).
 
 ### 🔐 Checkpoints
 
-We release the primary checkpoint used in the paper:
-📥 *\[Download link to be added]*
+We have released the primary checkpoint used in the paper. To download, please follow the instructions below:
 
-After downloading, please add the checkpoint to:
+```bash
+mkdir checkpoints
+wget https://github.com/Qualcomm-AI-research/SharpDepth/releases/download/v1.0/sharpdepth.tar.gz.part-aa
+wget https://github.com/Qualcomm-AI-research/SharpDepth/releases/download/v1.0/sharpdepth.tar.gz.part-ab 
+wget https://github.com/Qualcomm-AI-research/SharpDepth/releases/download/v1.0/sharpdepth.tar.gz.part-ac
+cat sharpdepth.tar.gz.part-* >sharpdepth.tar.gz
+tar zxvf sharpdepth.tar.gz
+```
+
+This should create the following directory with checkpoints:
+
 ```bash
 checkpoints/sharpdepth
 ```
