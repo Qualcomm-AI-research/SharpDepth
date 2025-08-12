@@ -1,5 +1,5 @@
-# Copyright (c) 2025 Qualcomm Technologies, Inc.
-# All Rights Reserved.
+# Copyright (c) Qualcomm Technologies, Inc. and/or its subsidiaries.
+# SPDX-License-Identifier: BSD-3-Clause-Clear
 
 # Code adapted from:
 # https://github.com/prs-eth/Marigold/blob/v0.1.4/src/dataset/nyu_dataset.py

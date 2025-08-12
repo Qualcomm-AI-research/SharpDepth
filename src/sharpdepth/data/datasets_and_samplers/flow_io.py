@@ -1,5 +1,5 @@
-# Copyright (c) 2025 Qualcomm Technologies, Inc.
-# All Rights Reserved.
+# Copyright (c) Qualcomm Technologies, Inc. and/or its subsidiaries.
+# SPDX-License-Identifier: BSD-3-Clause-Clear
 
 # Code adapted from:
 # https://github.com/cv-stuttgart/flow_library/blob/master/flow_IO.py
