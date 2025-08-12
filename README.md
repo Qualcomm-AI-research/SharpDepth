@@ -155,3 +155,7 @@ For questions or issues, please contact:
 or open an issue in this repository.
 
 ---
+
+## License
+
+*SharpDepth is licensed under the [BSD-3-clause License](https://spdx.org/licenses/BSD-3-Clause.html). See [LICENSE](LICENSE) for the full license text.
