@@ -1,6 +1,6 @@
 accelerate==0.29.3
 datasets==2.19.0
-diffusers==0.28.0
+diffusers==0.38.0
 easydict==1.13
 einops==0.7.0
 ema-pytorch
